@@ -1,4 +1,5 @@
 Enter no. of rings:
+5
 Step no 1: Move disc 1 from f to t.
 Step no 2: Move disc 2 from f to a.
 Step no 3: Move disc 1 from t to a.
